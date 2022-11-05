@@ -1,0 +1,103 @@
+.sidenav {
+
+  height: 100%;
+
+  width: 0;
+
+  position: fixed;
+
+  top: 0;
+
+  right: 0;
+
+  margin: auto;
+
+  overflow-x: hidden;
+
+  z-index: 1;
+
+}
+
+.sidenav a {
+
+  display: block;
+
+  padding-top: 10px;
+
+  padding-left: 20%;
+
+}
+
+#btn {
+
+  position: fixed;
+
+  top: 0;
+
+  right: 5px;
+
+  font-size: 40px;
+
+}
+
+.content {
+
+  width: 90%;
+
+}
+
+hr {
+
+  color: white;
+
+  border: 2px solid;
+
+}
+
+img {
+
+  height: 50%;
+
+  width: 30%;
+
+  background-size: contain;
+
+  margin: auto;
+
+  right: 0;
+
+}
+
+.img-circle {
+
+  border: 3px solid white;
+
+  border-radius: 50%;
+
+  margin: auto;
+
+}
+
+.container {
+
+  margin-top: 10%;
+
+}
+
+.bi {
+
+  margin-right: 40%;
+
+}
+
+.bottom {
+
+  position: absolute;
+
+  bottom: 0;
+
+  left: 0;
+
+  padding-left:20%;
+
+}
